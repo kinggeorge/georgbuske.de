@@ -1,3 +1,5 @@
+title: Homepage
+
 #Hi there!
 
 Eventually there will be a site again. So long use one of these links to get connected...
